@@ -1,5 +1,5 @@
-Python 
-Django
-Django REST Framework
-Pandas
-Geopy
+python
+django
+djangorestframework
+pandas
+geopy
