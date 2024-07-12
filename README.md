@@ -21,7 +21,6 @@ This is a Django project that helps users find nearby food trucks based on a giv
 1. Clone the repository:
    ```bash
    git clone https://github.com/tushar93git/food-truck-finder.git
-   cd food-truck-finder
 
 2.Create and activate a virtual environment:
 
